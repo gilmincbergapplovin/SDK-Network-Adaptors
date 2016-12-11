@@ -1,3 +1,7 @@
+
+<?PHP
+/**
+
 Rewarded Videos
 ====================
 For rewarded videos integration, add the java file ApplovinAdapter.java into your app. Make sure to locate the class in the path: com.applovin.mediation.ApplovinAdapter. In the AdMob dashboard::compile 'com.android.support:appcompat-v7:xx.x.x',
@@ -19,3 +23,4 @@ Henry Baez email: foo.gradle@gmail.com
 
 --------------------
 Note: For Unity-Android integration, you can use the applovin-admob-adaptors.jar file from the Unity folder instead of using the open source adapters. 
+@0072016
